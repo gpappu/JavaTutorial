@@ -10,6 +10,8 @@ public class Main {
         double dec  = 33.6;
         boolean result = true;
 
+        //Arrays
+
         int[] a = new int[4]; // This is to say 'a' will hold 4 values and is of type int.
         a[0] = 1; // In an array, values are stored in the zeroth index. This is a tedious way of defining arrays.
         a[1] = 3;
