@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb649600-546d-45ee-a656-8f847b3fe38c" name="Changes" comment="learning java">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IfLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaTutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaTutorial.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,14 @@
     "settings.editor.selected.configurable": "Settings.Markdown"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IfLoops">
+  <component name="RunManager" selected="Application.ArrayLists">
+    <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayLists" />
+      <module name="JavaTutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForLoops" />
       <module name="JavaTutorial" />
@@ -68,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayLists" />
         <item itemvalue="Application.IfLoops" />
         <item itemvalue="Application.ForLoops" />
         <item itemvalue="Application.Main" />
@@ -90,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678223066628</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="learning java">
+      <created>1678381305733</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678381305733</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

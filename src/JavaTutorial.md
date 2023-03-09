@@ -8,6 +8,8 @@
 8. The method to find the size of the array is ***length***. 
 9. For any datatype, when the declaration is in the form: **datatype variable = value;** then that is a literal.
 10. For any datatype, when the declaration is in the form: ****datatype[] variable = {values}** then that would be an array. Values are separated by commas.
-11. Enhanced For Loop syantax: 
+11. Enhanced For Loop syntax: 
     ''' for (String s: name) {}'''
-12. 
+12. When working with arrays, there is a limitation that the size of the array can ot be changed. There may be scenarios where user nay need to add values to an array at runtime. In order to do that, we use ***Arraylists***.
+13. ArrayList is one of the classes and a ***collection*** in Java and ***can hold values of different datatypes***. The size of the ArrayList is dynamic. 
+14. ArrayList can have a specific datatype. ArrayList<String> ArrayListObjectName = new ArrayList<String>(); This is an ArrayList of String datatype.
